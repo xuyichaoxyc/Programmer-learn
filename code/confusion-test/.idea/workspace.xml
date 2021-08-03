@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="304d8419-b4bc-4675-8816-572362b960d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/confusion-test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/confusion-test/problem_0001_callback/Java 回调机制.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/confusion-test/problem_0001_callback/sync_callback/Callee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/confusion-test/problem_0001_callback/sync_callback/Caller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/confusion-test/problem_0001_callback/sync_callback/SyncCallee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/confusion-test/problem_0001_callback/sync_callback/SyncCaller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/confusion-test/problem_0001_callback/sync_callback/TestSyncCallback.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem_0001_callback/Java 回调机制.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem_0001_callback/img/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem_0001_callback/sync_callback/Callee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem_0001_callback/sync_callback/Caller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem_0001_callback/sync_callback/SyncCallee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem_0001_callback/sync_callback/SyncCaller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem_0001_callback/sync_callback/TestSyncCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programmer-code-interview/.idea/sonarlint/issuestore/9/9/99b53d3b256ef23985cb47168124db1a21d35d2d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programmer-code-interview/.idea/sonarlint/issuestore/e/d/ed3c22a09bb10daf27cea3ce1967d76d3199e8f0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmer-code-interview/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../programmer-code-interview/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-learn/springcloud-book-parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-learn/springcloud-book-parent/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\devtool\apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="D:\devtool\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1wD2jZUdpXkTxPfDesNm33akg74" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../devtool/jdk1.8" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\learnning\gitfile\Programmer-learn\code\confusion-test\src\problem_0001_callback\img" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestSyncCallback" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem_0001_callback.sync_callback.TestSyncCallback" />
+      <module name="confusion-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem_0001_callback.sync_callback.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestSyncCallback" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="304d8419-b4bc-4675-8816-572362b960d9" name="Default Changelist" comment="" />
+      <created>1627978975355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627978975355</updated>
+      <workItem from="1627978976771" duration="996000" />
+      <workItem from="1627980003626" duration="2943000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
