@@ -1,0 +1,16 @@
+
+G
+java:S1135
+"2Complete the task associated to this TODO comment.(£°§\
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(Šùÿşşÿÿÿÿ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(¬ÿçıÿÿÿÿ
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(Œ°êµúÿÿÿÿ
+T
+java:S4719J"9Replace charset name argument with StandardCharsets.UTF_8(ËÑ­ üÿÿÿÿ
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(õıÁ®ûÿÿÿÿ
+c
+java:S2095&"HUse try-with-resources or close this "Connection" in a "finally" clause.( ³­£şÿÿÿÿ
+`
+java:S2095)"EUse try-with-resources or close this "Channel" in a "finally" clause.(ıÍ•ûÿÿÿÿ
+=
+java:S21897""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ

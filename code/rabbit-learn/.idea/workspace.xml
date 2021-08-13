@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="37bd7d1e-8b0e-45d8-9358-f9f58f1ab093" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../confusion-test/.idea/sonarlint/issuestore/2/0/20bd06b6819c75eac1e23c64a6c3413a44413556" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../confusion-test/.idea/sonarlint/issuestore/4/9/496a238a6afa168dbaf6efd37bb459331589579c" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../confusion-test/.idea/sonarlint/issuestore/5/5/5508185a23b35184b39747036da733c74adf96fd" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../confusion-test/.idea/sonarlint/issuestore/7/4/74c086aac60cd64fff65b802c5918fefee3836e7" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../confusion-test/.idea/sonarlint/issuestore/a/f/afb4d51cbf96a951ac43c8539ad248293221d6d0" afterDir="false" />
@@ -15,22 +14,9 @@
       <change afterPath="$PROJECT_DIR$/../java-learn/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../java-learn/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../programmer-code-interview/out/production/programmer-code-interview/ch01_stack_queue/problem_06/HanoiProblem1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbit-learn.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xyc/consumer/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xyc/producer/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyc/consumer/Consumer$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyc/consumer/Consumer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xyc/producer/Producer.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../confusion-test/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../confusion-test/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../confusion-test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../confusion-test/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../programmer-code-interview/.idea/sonarlint/issuestore/e/d/ed3c22a09bb10daf27cea3ce1967d76d3199e8f0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../programmer-code-interview/.idea/sonarlint/issuestore/e/d/ed3c22a09bb10daf27cea3ce1967d76d3199e8f0" beforeDir="false" afterPath="$PROJECT_DIR$/../confusion-test/.idea/sonarlint/issuestore/4/9/496a238a6afa168dbaf6efd37bb459331589579c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../programmer-code-interview/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../programmer-code-interview/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +53,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../devtool/jdk1.8" />
@@ -118,10 +105,23 @@
       <option name="presentableId" value="Default" />
       <updated>1628236277137</updated>
       <workItem from="1628236278841" duration="1903000" />
+      <workItem from="1628476289034" duration="440000" />
     </task>
+    <task id="LOCAL-00001" summary="rabbit-learn">
+      <created>1628476437331</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1628476437331</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="rabbit-learn" />
+    <option name="LAST_COMMIT_MESSAGE" value="rabbit-learn" />
   </component>
 </project>

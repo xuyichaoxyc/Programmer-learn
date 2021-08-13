@@ -1,0 +1,271 @@
+Index: ../java-learn/.idea/inspectionProfiles/Project_Default.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../java-learn/.idea/inspectionProfiles/Project_Default.xml b/../java-learn/.idea/inspectionProfiles/Project_Default.xml
+new file mode 100644
+--- /dev/null	(date 1628233641072)
++++ b/../java-learn/.idea/inspectionProfiles/Project_Default.xml	(date 1628233641072)
+@@ -0,0 +1,36 @@
++<component name="InspectionProjectProfileManager">
++  <profile version="1.0">
++    <option name="myName" value="Project Default" />
++    <inspection_tool class="JavaDoc" enabled="true" level="WARNING" enabled_by_default="true">
++      <option name="TOP_LEVEL_CLASS_OPTIONS">
++        <value>
++          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
++          <option name="REQUIRED_TAGS" value="" />
++        </value>
++      </option>
++      <option name="INNER_CLASS_OPTIONS">
++        <value>
++          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
++          <option name="REQUIRED_TAGS" value="" />
++        </value>
++      </option>
++      <option name="METHOD_OPTIONS">
++        <value>
++          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
++          <option name="REQUIRED_TAGS" value="@return@param@throws or @exception" />
++        </value>
++      </option>
++      <option name="FIELD_OPTIONS">
++        <value>
++          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
++          <option name="REQUIRED_TAGS" value="" />
++        </value>
++      </option>
++      <option name="IGNORE_DEPRECATED" value="false" />
++      <option name="IGNORE_JAVADOC_PERIOD" value="true" />
++      <option name="IGNORE_DUPLICATED_THROWS" value="false" />
++      <option name="IGNORE_POINT_TO_ITSELF" value="false" />
++      <option name="myAdditionalJavadocTags" value="date" />
++    </inspection_tool>
++  </profile>
++</component>
+\ No newline at end of file
+Index: ../confusion-test/.idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"304d8419-b4bc-4675-8816-572362b960d9\" name=\"Default Changelist\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/modules.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/confusion-test.iml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/confusion-test/problem_0001_callback/Java 回调机制.md\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/confusion-test/problem_0001_callback/sync_callback/Callee.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/confusion-test/problem_0001_callback/sync_callback/Caller.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/confusion-test/problem_0001_callback/sync_callback/SyncCallee.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/confusion-test/problem_0001_callback/sync_callback/SyncCaller.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/out/production/confusion-test/problem_0001_callback/sync_callback/TestSyncCallback.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/problem_0001_callback/Java 回调机制.md\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/problem_0001_callback/img/img.png\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/problem_0001_callback/sync_callback/Callee.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/problem_0001_callback/sync_callback/Caller.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/problem_0001_callback/sync_callback/SyncCallee.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/problem_0001_callback/sync_callback/SyncCaller.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/problem_0001_callback/sync_callback/TestSyncCallback.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/../programmer-code-interview/.idea/sonarlint/issuestore/9/9/99b53d3b256ef23985cb47168124db1a21d35d2d\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/../programmer-code-interview/.idea/sonarlint/issuestore/e/d/ed3c22a09bb10daf27cea3ce1967d76d3199e8f0\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../programmer-code-interview/.idea/sonarlint/issuestore/index.pb\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/../programmer-code-interview/.idea/sonarlint/issuestore/index.pb\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../springcloud-learn/springcloud-book-parent/pom.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/../springcloud-learn/springcloud-book-parent/pom.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Interface\" />\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$/../..\" />\r\n  </component>\r\n  <component name=\"MavenImportPreferences\">\r\n    <option name=\"generalSettings\">\r\n      <MavenGeneralSettings>\r\n        <option name=\"mavenHome\" value=\"D:\\devtool\\apache-maven-3.8.1\" />\r\n        <option name=\"userSettingsFile\" value=\"D:\\devtool\\apache-maven-3.8.1\\conf\\settings.xml\" />\r\n      </MavenGeneralSettings>\r\n    </option>\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1wD2jZUdpXkTxPfDesNm33akg74\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"ASKED_ADD_EXTERNAL_FILES\" value=\"true\" />\r\n    <property name=\"ASKED_SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"aspect.path.notification.shown\" value=\"true\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/../../../../../devtool/jdk1.8\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"preferences.pluginManager\" />\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"D:\\learnning\\gitfile\\Programmer-learn\\code\\confusion-test\\src\\problem_0001_callback\\img\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"TestSyncCallback\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"problem_0001_callback.sync_callback.TestSyncCallback\" />\r\n      <module name=\"confusion-test\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"problem_0001_callback.sync_callback.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration default=\"true\" type=\"ArquillianTestNG\" factoryName=\"\" nameIsGenerated=\"true\">\r\n      <option name=\"arquillianRunConfiguration\">\r\n        <value>\r\n          <option name=\"containerStateName\" value=\"\" />\r\n        </value>\r\n      </option>\r\n      <option name=\"TEST_OBJECT\" value=\"CLASS\" />\r\n      <properties />\r\n      <listeners />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.TestSyncCallback\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"304d8419-b4bc-4675-8816-572362b960d9\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1627978975355</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1627978975355</updated>\r\n      <workItem from=\"1627978976771\" duration=\"996000\" />\r\n      <workItem from=\"1627980003626\" duration=\"2943000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../confusion-test/.idea/workspace.xml b/../confusion-test/.idea/workspace.xml
+--- a/../confusion-test/.idea/workspace.xml	(revision fdc9ba771e72320aaaa5316975a0df838cccf454)
++++ b/../confusion-test/.idea/workspace.xml	(date 1628476306265)
+@@ -2,30 +2,33 @@
+ <project version="4">
+   <component name="ChangeListManager">
+     <list default="true" id="304d8419-b4bc-4675-8816-572362b960d9" name="Default Changelist" comment="">
+-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/confusion-test.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/confusion-test/problem_0001_callback/Java 回调机制.md" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/confusion-test/problem_0001_callback/sync_callback/Callee.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/confusion-test/problem_0001_callback/sync_callback/Caller.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/confusion-test/problem_0001_callback/sync_callback/SyncCallee.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/confusion-test/problem_0001_callback/sync_callback/SyncCaller.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/out/production/confusion-test/problem_0001_callback/sync_callback/TestSyncCallback.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/problem_0001_callback/Java 回调机制.md" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/problem_0001_callback/img/img.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/problem_0001_callback/sync_callback/Callee.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/problem_0001_callback/sync_callback/Caller.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/problem_0001_callback/sync_callback/SyncCallee.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/problem_0001_callback/sync_callback/SyncCaller.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/problem_0001_callback/sync_callback/TestSyncCallback.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../programmer-code-interview/.idea/sonarlint/issuestore/9/9/99b53d3b256ef23985cb47168124db1a21d35d2d" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../programmer-code-interview/.idea/sonarlint/issuestore/e/d/ed3c22a09bb10daf27cea3ce1967d76d3199e8f0" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/0/20bd06b6819c75eac1e23c64a6c3413a44413556" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/9/496a238a6afa168dbaf6efd37bb459331589579c" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/5508185a23b35184b39747036da733c74adf96fd" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/4/74c086aac60cd64fff65b802c5918fefee3836e7" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/afb4d51cbf96a951ac43c8539ad248293221d6d0" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bba4cb09299c88421039194372c85e3ec930a2db" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/b/cbd504f98ada3e9b28cb821f1763a8f6980a49be" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../java-learn/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../java-learn/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../programmer-code-interview/out/production/programmer-code-interview/ch01_stack_queue/problem_06/HanoiProblem1.class" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../rabbit-learn/.idea/compiler.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../rabbit-learn/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../rabbit-learn/.idea/jarRepositories.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../rabbit-learn/.idea/misc.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../rabbit-learn/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../rabbit-learn/.idea/vcs.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../rabbit-learn/.idea/workspace.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../rabbit-learn/rabbit-learn.iml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../rabbit-learn/src/main/java/com/xyc/consumer/Consumer.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../rabbit-learn/src/main/java/com/xyc/producer/Producer.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../rabbit-learn/target/classes/com/xyc/consumer/Consumer$1.class" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../rabbit-learn/target/classes/com/xyc/consumer/Consumer.class" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../rabbit-learn/target/classes/com/xyc/producer/Producer.class" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../programmer-code-interview/.idea/sonarlint/issuestore/e/d/ed3c22a09bb10daf27cea3ce1967d76d3199e8f0" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/../programmer-code-interview/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../programmer-code-interview/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../springcloud-learn/springcloud-book-parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-learn/springcloud-book-parent/pom.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -36,6 +39,7 @@
+     <option name="RECENT_TEMPLATES">
+       <list>
+         <option value="Interface" />
++        <option value="Enum" />
+         <option value="Class" />
+       </list>
+     </option>
+@@ -65,6 +69,7 @@
+     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
++    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+     <property name="WebServerToolWindowFactoryState" value="false" />
+     <property name="aspect.path.notification.shown" value="true" />
+     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../devtool/jdk1.8" />
+@@ -75,13 +80,13 @@
+       <recent name="D:\learnning\gitfile\Programmer-learn\code\confusion-test\src\problem_0001_callback\img" />
+     </key>
+   </component>
+-  <component name="RunManager">
+-    <configuration name="TestSyncCallback" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="problem_0001_callback.sync_callback.TestSyncCallback" />
++  <component name="RunManager" selected="Application.EnumTest">
++    <configuration name="ConstructorTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="problem_0003_constructor.initialize.ConstructorTest2" />
+       <module name="confusion-test" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="problem_0001_callback.sync_callback.*" />
++          <option name="PATTERN" value="problem_0003_constructor.initialize.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+@@ -89,22 +94,65 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+-      <option name="arquillianRunConfiguration">
+-        <value>
+-          <option name="containerStateName" value="" />
+-        </value>
+-      </option>
+-      <option name="TEST_OBJECT" value="CLASS" />
+-      <properties />
+-      <listeners />
++    <configuration name="EnumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="problem_0004_enum.EnumTest" />
++      <module name="confusion-test" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="problem_0004_enum.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="ParentSamePackageClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="problem_0002_protected.parent.ParentSamePackageClass" />
++      <module name="confusion-test" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="problem_0002_protected.parent.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="StringClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="problem_0003_constructor.initialize.StringClass" />
++      <module name="confusion-test" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="problem_0003_constructor.initialize.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="SubClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="problem_0002_protected.subclass.SubClass" />
++      <module name="confusion-test" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="problem_0002_protected.subclass.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
+       <method v="2">
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+     <recent_temporary>
+       <list>
+-        <item itemvalue="Application.TestSyncCallback" />
++        <item itemvalue="Application.EnumTest" />
++        <item itemvalue="Application.ConstructorTest2" />
++        <item itemvalue="Application.StringClass" />
++        <item itemvalue="Application.SubClass" />
++        <item itemvalue="Application.ParentSamePackageClass" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -117,8 +165,34 @@
+       <option name="presentableId" value="Default" />
+       <updated>1627978975355</updated>
+       <workItem from="1627978976771" duration="996000" />
+-      <workItem from="1627980003626" duration="2943000" />
++      <workItem from="1627980003626" duration="3562000" />
++      <workItem from="1628060811572" duration="1291000" />
++      <workItem from="1628123519875" duration="3715000" />
++      <workItem from="1628233888220" duration="594000" />
++      <workItem from="1628476289034" duration="16000" />
+     </task>
++    <task id="LOCAL-00001" summary="Java 同步回调">
++      <created>1627990054077</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1627990054077</updated>
++    </task>
++    <task id="LOCAL-00002" summary="protected 访问权限测试">
++      <created>1628061505867</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1628061505867</updated>
++    </task>
++    <task id="LOCAL-00003" summary="构造器初始化">
++      <created>1628152335006</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1628152335006</updated>
++    </task>
++    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -126,5 +200,9 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
++    <MESSAGE value="Java 同步回调" />
++    <MESSAGE value="protected 访问权限测试" />
++    <MESSAGE value="构造器初始化" />
++    <option name="LAST_COMMIT_MESSAGE" value="构造器初始化" />
+   </component>
+ </project>
+\ No newline at end of file
