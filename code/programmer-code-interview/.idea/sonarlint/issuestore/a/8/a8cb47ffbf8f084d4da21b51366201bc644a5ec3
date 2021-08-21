@@ -1,16 +1,0 @@
-
-G
-java:S1135"2Complete the task associated to this TODO comment.(£°§\
-N	java:S106"9Replace this use of System.out or System.err by a logger.(·•‡Ü
-M	java:S106"9Replace this use of System.out or System.err by a logger.(»”Œ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(Û‚öà
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Äí¶Åşÿÿÿÿ
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8¤ÌŠİ¯/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8¦ÌŠİ¯/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(îÉ®ğüÿÿÿÿ8§ÌŠİ¯/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(µö²ûıÿÿÿÿ8§ÌŠİ¯/
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Û‚öà8í¿Œİ¯/
-Z	java:S106 "9Replace this use of System.out or System.err by a logger.( î‡¼úÿÿÿÿ8èàİ¯/
-Z	java:S106!"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8€Õİ¯/
-Q	java:S125%"<This block of commented-out lines of code should be removed.(±õ•í
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(û¬Í·

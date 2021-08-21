@@ -1,8 +1,0 @@
-
-`	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(®íÎùÿÿÿÿ
-g	java:S112."FDefine and throw a dedicated exception instead of using a generic one.(®íÎùÿÿÿÿ8İœà£°/
-k
-java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ã›ğæıÿÿÿÿ
-k
-java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û€ùÿÿÿÿ
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆ­º„
